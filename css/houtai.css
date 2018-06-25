@@ -1,0 +1,144 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+.gwidth{
+	width: 951px;
+	margin: 0 auto;
+}
+
+
+.biaoti h1{
+	display: none;
+}
+.top{
+	width: 100%;
+	height: 70px;
+	background: url('images/houtai.png');
+}
+.top .nei{
+	height: 55px;
+}
+.top .nei img{
+	margin-top: 10px;
+}
+.top .nei ul{
+	float: right;
+}
+.top .nei ul li{
+	float: left;
+	margin-top: 26px;
+}
+.top .nei ul li a{
+	color: #FFF;
+}
+
+
+.shenti{
+	height: 780px;
+	background: #FFF;
+}
+.shenti .ne .button1{
+	height: 55px;
+	font-size: 30px;
+	border: none;
+	border-bottom: 1px solid #CCC;
+	margin-top: 26px;
+}
+.shenti .ne .tabs{
+	margin-left: -8px;
+	position: absolute;
+}
+.shenti .ne .tabs .active,.shenti .ne .tabs li:hover{
+	border: 1px solid #FF9C71;
+}
+.shenti .ne .tabs li{
+	margin-top: 26px;
+	float: left;
+	border: 1px solid #4FACF6;
+	margin-left: 8px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.shenti .ne .anniu ul{
+	margin-left: -6px;
+}
+.shenti .ne .anniu ul li{
+	float: left;
+	margin-left: 6px;
+}
+.shenti .ne .anniu ul button{
+	width: 64px;
+	height: 24px;
+	background: #06B0FF;
+	border: 1px solid #06B0FF;
+	border-radius: 10px;
+	margin-bottom: 28px;
+}
+.shenti .ne .anniu ul button a{
+	color: #FFF;
+	font-size: 14px;
+}
+.shenti .ne .anniu ul .button2,.shenti .ne .anniu ul .button3{
+	margin-top: 74px;
+}
+
+.shenti .ne .tabs .active{
+	background: #fff;
+}
+.shenti .ne .contents{
+	margin-top: -1px;
+	padding: 20px;
+	margin-left: -20px;
+}
+.shenti .ne .contents div{
+	display: none;
+}
+.shenti .ne .contents .show{
+	display: block;
+}
+
+.shenti .table{
+	border-collapse: collapse;
+	margin-top: 28px;
+	height: 158px;
+}
+.shenti .table thead,.shenti .table tbody tr{
+	border: 1px solid #D4D4D4;
+}
+.shenti .table .t1{
+	background: #F1F1F1;
+}
+
+
+.shenti .yue{
+	width: 949px;
+	height: 32px;
+	border: 1px solid #D4D4D4;
+	border-top: none;
+	margin-top: -20px;
+	line-height: 32px;
+	font-size: 12px;
+	background: url('images/houtai2.png') no-repeat center;
+}
+.shenti .yue span{
+	margin-left: 320px;
+}
+
+
+.booter{
+	background: #FFF;
+	height: 60px;
+}
+.booter span{
+	margin-left: 340px;
+	font-size: 12px;
+	color: #666;
+}

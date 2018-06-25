@@ -1,0 +1,147 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.gwidth{
+	width: 968px;
+	margin: 0 auto;
+}
+body{
+	background: #ECF9F1;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+
+
+.biaoti h1{
+	display: none;
+}
+
+
+.top{
+	width: 100%;
+	height: 191px;
+	background: url('images/wt.png');
+}
+.top .wenzi{
+	height: 191px;
+	background: url('images/wt1.png');
+}
+
+
+.daohang{
+	width: 100%;
+	height: 38px;
+	background: #4CACF8;
+}
+.daohang .ul li{
+	float: left;
+	line-height: 38px;
+}
+.daohang .ul li a{
+	color: #FFF;
+}
+
+
+
+.neirong .n1{
+	background: #FFF;
+}
+.neirong .n1 h1{
+	font-size: 20px;
+	text-align: center;
+	line-height: 60px;
+}
+.neirong .n1 .wt1{
+	text-align: center;
+	margin-left: 182px;
+}
+.neirong .n1 .nei{
+	font-size: 14px;
+	color: #666;
+}
+.neirong .n1 .nei .nei1 h3,.neirong .n1 .nei .nei2 h3{
+	margin-left: 80px;
+	color: #333;
+	margin-top: 42px;
+}
+.neirong .n1 .nei .nei1 p,.neirong .n1 .nei .nei2 p{
+	text-indent: 2em;
+	margin-left: 50px;
+	line-height: 1.7;
+	margin-top: 26px;
+}
+
+.neirong .n1 .nei .nei3 .dizhi,.neirong .n1 .nei .nei4 .dizhi,.neirong .n1 .nei .nei5 .dizhi{
+	width: 74px;
+	height: 22px;
+	background: #38A5FB;
+	border: none;
+	margin:54px;
+}
+.neirong .n1 .nei .nei3 .dizhi a,.neirong .n1 .nei .nei4 .dizhi a,.neirong .n1 .nei .nei5 .dizhi a{
+	color: #FFF;
+}
+
+.neirong .n1 .nei .nei3 .xian,.neirong .n1 .nei .nei4 .xian,.neirong .n1 .nei .nei5 .xian{
+	width: 915px;
+	height: 1px;
+	background: #38A5FB;
+	margin-left:34px;
+	margin-top: -54px;
+}
+
+.neirong .n1 .nei .nei3 .chengche,.neirong .n1 .nei .nei4 .chengche,.neirong .n1 .nei .nei5 .chengche{
+	color: #666;
+	font-size: 16px;
+	margin-left: 34px;
+	margin-top: 16px;
+}
+.neirong .n1 .nei .nei3 .chengche p,.neirong .n1 .nei .nei4 .chengche p,.neirong .n1 .nei .nei5 .chengche p{
+	margin-top: 16px;
+}
+
+.neirong .n1 .nei .nei5 .dz1,.neirong .n1 .nei .nei5 .dz2{
+	width: 160px;
+	height: 48px;
+	font-size: 16px;
+	margin-left: 14px;
+	border: 1px solid #F1F1F1;
+	border-radius: 10px;
+	background: #F1F1F1;
+}
+.neirong .n1 .nei .nei5 .dz1 a,.neirong .n1 .nei .nei5 .dz2 a{
+	color: #317CB7;
+}
+
+
+.neirong .n2{
+	background: #FFF;
+}
+.neirong .n2 .nei1{
+	width: 916px;
+	height: 203px;
+	border: 1px solid #38A5FB;
+	margin-left: 34px;
+}
+.neirong .n2 .nei1 ul{
+	margin-top: 18px;
+}
+.neirong .n2 .nei1 ul li{
+	float: left;
+	margin-left: 16px;
+}
+
+.neirong .booter{
+	background: #FFF;
+	height: 60px;
+}
+.neirong .booter span{
+	margin-left: 340px;
+	font-size: 12px;
+	color: #666;
+}
